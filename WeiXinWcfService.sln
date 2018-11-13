@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin_Contracts", "WeiXin_Contracts\WeiXin_Contracts.csproj", "{4711EDB7-B442-4C48-AC0E-D63AE77BB5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin_Services", "WeiXin_Services\WeiXin_Services.csproj", "{DABD131E-732E-44A9-9A37-9FF0D4FEB68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin_Host", "WeiXin_Host\WeiXin_Host.csproj", "{3A6B5576-FD21-4FFC-B66C-F3E62D29D4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin_MainForm", "WeiXin_MainForm\WeiXin_MainForm.csproj", "{1AE52757-DD53-41D1-A494-3154D74138BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4711EDB7-B442-4C48-AC0E-D63AE77BB5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4711EDB7-B442-4C48-AC0E-D63AE77BB5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4711EDB7-B442-4C48-AC0E-D63AE77BB5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4711EDB7-B442-4C48-AC0E-D63AE77BB5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABD131E-732E-44A9-9A37-9FF0D4FEB68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABD131E-732E-44A9-9A37-9FF0D4FEB68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABD131E-732E-44A9-9A37-9FF0D4FEB68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABD131E-732E-44A9-9A37-9FF0D4FEB68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6B5576-FD21-4FFC-B66C-F3E62D29D4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6B5576-FD21-4FFC-B66C-F3E62D29D4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6B5576-FD21-4FFC-B66C-F3E62D29D4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6B5576-FD21-4FFC-B66C-F3E62D29D4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE52757-DD53-41D1-A494-3154D74138BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE52757-DD53-41D1-A494-3154D74138BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE52757-DD53-41D1-A494-3154D74138BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE52757-DD53-41D1-A494-3154D74138BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
