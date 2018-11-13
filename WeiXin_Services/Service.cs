@@ -38,7 +38,7 @@ namespace WeiXin_Services
         /// <returns>表数据</returns>
         public DayData QueryDayData(string meterNo)
         {
-            return new DayData(); 
+            return new DayData();
         }
         /// <summary>
         /// 查询用户充值记录
